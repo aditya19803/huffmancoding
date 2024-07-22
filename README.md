@@ -1,4 +1,4 @@
-# huffmancoding
+# Huffmancoding
 Huffman coding algorithm is a lossless data compression algorithm that assigns shorter binary codes to more frequent characters, reducing the overall size of the data while preserving its original content.
 
 Given repository consists a Huffman code implemented in python, and a sample text about National Institute of Technology for implementation of the code
